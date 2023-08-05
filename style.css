@@ -1,0 +1,25 @@
+body{
+background-color:#050505;
+text-align:center;
+  color:white  }
+
+
+h2{
+color:white;  
+border:2px solid white;  
+ padding:10px 
+}
+
+#riodejaneiro{
+  color:white
+}
+
+a{
+text-decoration:none;
+color:#000000;
+border-style:solid;  
+border-color:white;  
+padding:5px;
+border-radius:5px;  
+background-color:white 
+}
